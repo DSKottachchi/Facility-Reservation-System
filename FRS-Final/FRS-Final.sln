@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FRS-Final", "FRS-Final\FRS-Final.csproj", "{23E01D09-558E-4325-9F54-8765A7984A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E01D09-558E-4325-9F54-8765A7984A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E01D09-558E-4325-9F54-8765A7984A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E01D09-558E-4325-9F54-8765A7984A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E01D09-558E-4325-9F54-8765A7984A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A948B87E-B802-476F-B182-65CB2280D7D0}
+	EndGlobalSection
+EndGlobal
